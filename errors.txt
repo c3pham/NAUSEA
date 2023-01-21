@@ -1,0 +1,19 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 57: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    """if draggable == "circle":
+                        ^
+            show circle:
+                xpos xpos_var ypos 460
+        elif draggable == "triangle":
+            show triangle:
+                xpos xpos_var ypos 460
+        elif draggable == "square":
+            show square:
+                xpos xpos_var ypos 460"""
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sat Jan 21 01:50:27 2023
